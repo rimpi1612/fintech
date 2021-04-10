@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#ignore these files
+passcode.txt
+api_key.txt
