@@ -140,10 +140,10 @@ Blockchains are secure by design, and are an example of a distributed computing 
 
 ---
 
-####Sources:
+- Sources:
 
-https://stripe.com/files/payments/IDC_Business_Value_of_Stripe_Platform_Full%20Study.pdf
-https://stripe.com/about
-https://www.cnbc.com/2020/06/16/why-online-payments-start-up-stripe-is-the-no-1-disruptor-50-company.html
-https://www.cashbook.com/changes-in-payment-trends-over-the-last-10-years/
-https://enlyft.com/tech/products/stripe
+- https://stripe.com/files/payments/IDC_Business_Value_of_Stripe_Platform_Full%20Study.pdf
+- https://stripe.com/about
+- https://www.cnbc.com/2020/06/16/why-online-payments-start-up-stripe-is-the-no-1-disruptor-50-company.html
+- https://www.cashbook.com/changes-in-payment-trends-over-the-last-10-years/
+- https://enlyft.com/tech/products/stripe
