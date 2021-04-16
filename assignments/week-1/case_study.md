@@ -4,18 +4,23 @@
 
 ![Stripe](https://stripe.com/img/v3/home/social.png)
 
+Stripe is an Irish-American financial services and software as a service company dual-headquartered in San Francisco, California and Dublin, Ireland. The company primarily offers payment processing software and application programming interfaces for e-commerce websites and mobile applications.
+
 * When was the company incorporated?
 
-
+In early 2010 John and Patrick began working on Stripe together. ... Stripe originally partnered with a payments company but after they started taking it seriously they realized that the only way to control the entire experience the way they wanted to was to control all aspects of the process.
 
 * Who are the founders of the company?
+
 Collision brothers
-Stripe is an Irish-American financial services and software as a service company dual-headquartered in San Francisco, California and Dublin, Ireland. The company primarily offers payment processing software and application programming interfaces for e-commerce websites and mobile applications.
+Patrick Collison (born 9 September 1988) is an Irish billionaire entrepreneur. He is the co-founder and CEO of Stripe, which he started with his younger brother, John, in 2010. He won the 41st Young Scientist and Technology Exhibition in 2005 at the age of sixteen.
 
 * How did the idea for the company (or project) come about?
 
-* How is the company funded? How much funding have they received?
+John and Patrick first started working on Stripe in early 2010. The inspiration came when Patrick, who was working on a few side projects, kept complaining about how difficult it was to accept payments on the web. The two quickly developed a simple solution and within 2-weeks they had processed their first transaction.
 
+* How is the company funded? How much funding have they received?
+Growth. In May 2011, Stripe received a $2 million investment from venture capitalists Peter Thiel, Sequoia Capital, and Andreessen Horowitz. Stripe launched publicly in September 2011 after an extensive private beta.
 
 ## Business Activities:
 
